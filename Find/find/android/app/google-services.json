@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672145610",
+    "firebase_url": "https://find-265817.firebaseio.com",
+    "project_id": "find-265817",
+    "storage_bucket": "find-265817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672145610:android:fe589d915354c41c529433",
+        "android_client_info": {
+          "package_name": "com.varos.find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672145610-q29je75b36kvuq06um616uhnahjnm948.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqfMQkugExx1dnBxgrqXQj9VcY6HSfYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672145610-q29je75b36kvuq06um616uhnahjnm948.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
