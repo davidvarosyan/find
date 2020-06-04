@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "672145610",
-    "firebase_url": "https://find-265817.firebaseio.com",
-    "project_id": "find-265817",
-    "storage_bucket": "find-265817.appspot.com"
+    "project_number": "969801251182",
+    "firebase_url": "https://find-d1290.firebaseio.com",
+    "project_id": "find-d1290",
+    "storage_bucket": "find-d1290.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:672145610:android:fe589d915354c41c529433",
+        "mobilesdk_app_id": "1:969801251182:android:cf18f527f97de5d76da97f",
         "android_client_info": {
           "package_name": "com.varos.find"
         }
       },
       "oauth_client": [
         {
-          "client_id": "672145610-q29je75b36kvuq06um616uhnahjnm948.apps.googleusercontent.com",
+          "client_id": "969801251182-9tcsv6hfa9cebj27jcrm3oq6cvvki7p4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBiqfMQkugExx1dnBxgrqXQj9VcY6HSfYM"
+          "current_key": "AIzaSyBuE4A9h3TOyRFmnEPeWU61K5v7bq58D2Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "672145610-q29je75b36kvuq06um616uhnahjnm948.apps.googleusercontent.com",
+              "client_id": "969801251182-9tcsv6hfa9cebj27jcrm3oq6cvvki7p4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
